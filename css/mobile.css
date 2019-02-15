@@ -1,0 +1,70 @@
+/*Main navbar*/
+
+#navbar h1 {
+  float: none;
+  text-align: center;
+  padding: 20px 0;
+}
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+#navbar ul li a{
+  padding: 5px;
+  border-bottom: 1px dotted #444;
+}
+
+/*Home page*/
+
+#showcase .showcase-content {
+  line-height: 1.2;
+  height: 100%;
+  padding-top: 90px;
+}
+
+#hinfo .hinfo-img {
+  display: none;
+}
+#hinfo .hinfo-content {
+  float: none;
+  width: 100%;
+}
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/*About page*/
+
+#ainfo .ainfo-left,
+#ainfo .ainfo-right {
+  float:none;
+  width:100%;
+}
+#ainfo .ainfo-left {
+  text-align: center;
+}
+#ainfo .ainfo-right img{
+  margin-top: 10px;
+}
+
+#testimonials h2 {
+  line-height: 1.2;
+}
+
+/*Contact page*/
+
+#contact {
+  height: 100%;
+}
+#contact h2 {
+  line-height: 1.2;
+}
+#contact .form-container {
+  padding-bottom: 50px;
+}
+
+#cinfo .box{
+  border-bottom: 2px dotted #444;
+}
